@@ -6,7 +6,7 @@ Este proyecto resuelve numéricamente la ecuación de onda 3D mediante diferenci
 
 La ecuación estudiada es:
 
-\[
+$$
 \frac{\partial^2 u}{\partial t^2}
 =
 c^2
@@ -17,12 +17,12 @@ c^2
 +
 \frac{\partial^2 u}{\partial z^2}
 \right)
-\]
+$$
 
 donde:
 
-- \(u(x,y,z,t)\) es la amplitud de la onda
-- \(c\) es la velocidad de propagación
+- $u(x,y,z,t)$ es la amplitud de la onda
+- $c$ es la velocidad de propagación
 
 ## Objetivo del proyecto
 
